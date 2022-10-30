@@ -1,0 +1,15 @@
+{
+  "name": "kaprekar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kaprekar.js",
+  "scripts": {
+    "test": "mocha . -R min -w .js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
